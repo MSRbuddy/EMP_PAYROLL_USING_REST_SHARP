@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REST-API-UC4", "REST-API-UC4\REST-API-UC4.csproj", "{195483CF-92D7-4DB1-80C8-9342A5ABF3F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{0A9988EC-A2ED-4822-9400-8FB7E02590FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{195483CF-92D7-4DB1-80C8-9342A5ABF3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{195483CF-92D7-4DB1-80C8-9342A5ABF3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{195483CF-92D7-4DB1-80C8-9342A5ABF3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{195483CF-92D7-4DB1-80C8-9342A5ABF3F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9988EC-A2ED-4822-9400-8FB7E02590FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9988EC-A2ED-4822-9400-8FB7E02590FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9988EC-A2ED-4822-9400-8FB7E02590FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9988EC-A2ED-4822-9400-8FB7E02590FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1174EC98-3759-4080-9334-B80DB068ACBD}
+	EndGlobalSection
+EndGlobal
