@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\EmpPayroll-REST-API\EmpPayroll-REST-API\REST-API-UC2\REST-API-UC2\obj\Debug\net6.0\REST-API-UC2.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\EmpPayroll-REST-API\EmpPayroll-REST-API\REST-API-UC2\REST-API-UC2\obj\Debug\net6.0\REST-API-UC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\EmpPayroll-REST-API\EmpPayroll-REST-API\REST-API-UC2\REST-API-UC2\obj\Debug\net6.0\REST-API-UC2.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\EmpPayroll-REST-API\EmpPayroll-REST-API\REST-API-UC2\REST-API-UC2\obj\Debug\net6.0\REST-API-UC2.AssemblyInfo.cs
+C:\Users\USER\source\repos\EmpPayroll-REST-API\EmpPayroll-REST-API\REST-API-UC2\REST-API-UC2\obj\Debug\net6.0\REST-API-UC2.csproj.CoreCompileInputs.cache
